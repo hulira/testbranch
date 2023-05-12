@@ -3,3 +3,8 @@ goood afternoon
 good evening
 good night
 good day
+
+change to fruits
+strawberry
+avocado
+mango
