@@ -1,6 +1,13 @@
 good morning
 goood afternoon
 good evening
+good night
+good day
+
+change to fruits
+strawberry
+avocado
+mango
 
 
 branch 2
